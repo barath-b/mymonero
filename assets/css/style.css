@@ -1,0 +1,621 @@
+body {
+    background-color: #fe7;
+    font-family: 'Oxygen', sans-serif;
+    line-height: 1.5;
+    color: #272527;
+}
+
+.wrap {
+    margin: 0 auto;
+    padding: 0 2.5rem;
+    max-width: 100rem;
+}
+
+.color-1 {
+    background-color: #fff;
+}
+
+.color-2 {
+    background-color: #161416;
+    color: #9EAFB8;
+}
+
+.row .col {
+    padding: 0 1.25rem;
+}
+
+.row {
+    margin: 0 -20px;
+}
+
+.head {
+    padding: 1.25rem 0;
+}
+
+.logo {
+    margin: auto;
+}
+
+.head h1 {
+    text-align: center;
+    line-height: 2.5rem;
+    padding-top: 5px;
+}
+
+.logo img {
+    height: 32.5px;
+    width: 33px;
+    display: inline-block;
+}
+
+.sec {
+    padding: 40px 0;
+}
+
+.sec.one {
+    padding-top: 0;
+}
+
+.content {
+    text-align: center;
+    padding-top: 5px;
+}
+
+.content h1 {
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 1.25;
+    margin-bottom: 20px;
+}
+
+.content h1 span {
+    white-space: nowrap;
+}
+
+.content>p {
+    margin: auto;
+    margin-bottom: 26px;
+    max-width: 26rem;
+    color: #272527;
+    font-weight: 400;
+}
+
+.content p a {
+    color: #272527;
+    text-decoration-color: #272527;
+}
+
+.downs li {
+    display: block;
+    width: 100%;
+}
+
+.downs li a,
+.btn1,
+.btn2 {
+    margin: 4px 0;
+    display: inline-block;
+    border: 0;
+    border-radius: 3px;
+    padding: 10px 24px;
+    background: #272527;
+    text-align: center;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: inherit;
+    color: #fff;
+    text-decoration: none;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.downs li a .emo {
+    margin-right: 4px;
+}
+
+.downs li:last-of-type a,
+.btn2 {
+    background: rgba(124, 122, 124, 0.2);
+    color: #272527;
+}
+
+.plats {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.7);
+    margin: 24px auto 8px;
+}
+
+.or {
+    margin-top: 8px;
+}
+
+.plats a {
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.or a {
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+div.imag.col {
+    padding: 0%;
+}
+
+img {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
+
+.imag img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+
+/*Section 2*/
+
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.content h2 .emo {
+    display: block;
+    margin-bottom: 4px;
+}
+
+
+/*Section 3*/
+
+.color-2 p {
+    color: #9EAFB8;
+}
+
+.color-2 h2 {
+    color: #fff;
+}
+
+.content i {
+    font-style: italic;
+}
+
+.color-2 p a {
+    color: #9EAFB8;
+    text-decoration-color: #9EAFB8;
+}
+
+
+/*Section 4*/
+
+.quotes .emo img {
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+}
+
+.four {
+    padding: 0%;
+}
+
+.sec.four div.row div.col {
+    padding: 40px 0;
+}
+
+.four .row {
+    margin: 0;
+}
+
+.quotes {
+    text-align: center;
+    max-width: 40rem;
+    margin: auto;
+}
+
+.quotes p {
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+
+.quotes .text {
+    display: inline;
+}
+
+.quotes .text p {
+    margin: 0%;
+    margin-top: 4px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.quotes .text p:last-of-type {
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: normal;
+}
+
+.four .super p {
+    color: #fff;
+}
+
+.super .text p {
+    font-weight: 400;
+}
+
+.super .text p:last-of-type {
+    color: #9EAFB8;
+}
+
+
+/*Section 7*/
+
+.seven {
+    text-align: center;
+}
+
+.features {
+    max-width: 720px;
+    ;
+    margin: 40px 0 60px;
+}
+
+.feature strong {
+    font-weight: bold;
+}
+
+.feature {
+    margin-bottom: 30px;
+}
+
+.feature span {
+    font-size: 24px;
+}
+
+.feature img {
+    height: 18px;
+    width: 16px;
+    margin-bottom: 2px;
+    margin-right: 4px;
+}
+
+.feature a {
+    color: #272527;
+}
+
+.seven .logo img {
+    margin-bottom: 16px;
+    height: 42px;
+    width: auto;
+}
+
+.down2 p {
+    margin: 30px 0;
+}
+
+.seven .downs li a {
+    margin: 0;
+}
+
+.footer {
+    padding: 20px 0 40px;
+    font-size: 11px;
+    text-align: center;
+}
+
+.footer a {
+    color: #272527;
+}
+
+@media(min-width:768px) {
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    .row>.col {
+        flex: 1 1 0;
+    }
+
+    .row>.col.col-1 {
+        width: 12.5%;
+    }
+
+    .row>.col.col-2 {
+        width: 25%;
+    }
+
+    .row>.col.col-3 {
+        width: 37.5%;
+    }
+
+    .row>.col.col-4 {
+        width: 50%;
+    }
+
+    .row>.col.col-5 {
+        width: 62.5%;
+    }
+
+    .row>.col.col-6 {
+        width: 75%;
+    }
+
+    .row>.col.col-7 {
+        width: 87.5%;
+    }
+
+    .head h1 {
+        text-align: left;
+        margin-top: 20px;
+    }
+
+    .content {
+        text-align: left;
+        max-width: 1600px;
+    }
+
+    .content p {
+        margin-left: 0;
+    }
+
+    .content .downs li {
+        display: inline-block;
+        width: auto;
+    }
+
+    .two .wrap .row .col:first-child {
+        order: 2;
+        width: 37.5%;
+        padding: 0;
+        padding-right: 40px;
+        display: flex;
+        align-items: center;
+    }
+
+    .two .wrap .row .col:last-child {
+        flex-basis: 25%;
+        padding-right: 40px;
+    }
+
+    .three .content {
+        text-align: center;
+        margin: auto;
+    }
+
+    .three .content p {
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    .five .wrap .row .col:first-child {
+        order: 2;
+        display: flex;
+        align-items: center;
+    }
+
+    .six h2 {
+        text-align: center;
+    }
+
+    .features {
+        position: relative;
+        padding-left: 48px;
+    }
+
+    .feature .emo {
+        position: absolute;
+        left: 0;
+    }
+
+    .down1 *,
+    .down2 * {
+        display: inline;
+    }
+
+    .wrap {
+        padding: 0 80px;
+    }
+
+    .sec.one {
+        padding: 20px 0 60px;
+        overflow: hidden;
+    }
+
+    .sec.one .content>p {
+        max-width: 19rem;
+    }
+
+    .content {
+        padding-top: 12px;
+    }
+
+    .one .imag {
+        margin: -20px 0 -250px;
+    }
+
+    .one .imag img {
+        max-width: none;
+        width: 140%;
+        margin-left: -6%;
+    }
+
+    .two {
+        padding: 60px 0;
+    }
+
+    .two .imag {
+        display: flex;
+        align-items: center;
+    }
+
+    .three {
+        padding: 60px 0;
+    }
+
+    .three .content {
+        padding: 0%;
+    }
+
+    .four .emo img {
+        margin-bottom: 40px;
+    }
+
+    .sec.four div.row div.col {
+        padding: 60px 0;
+    }
+
+    .four footer {
+        padding: 0;
+    }
+
+    .four footer .emo img {
+        margin: 0%;
+    }
+
+    .five {
+        padding: 60px 0;
+    }
+
+    .five .col:last-child {
+        flex-basis: 20%;
+    }
+
+    .five .col,
+    .five .col.imag {
+        padding-right: 40px;
+    }
+
+    .six .col {
+        max-width: 80%;
+    }
+
+    .six p {
+        margin-bottom: 20px;
+    }
+
+    .six .content {
+        margin: 0 60px 32px;
+    }
+
+    .six .col img {
+        margin-bottom: -290px;
+    }
+
+    .six .row.imgg {
+        margin-bottom: 25px;
+    }
+
+    .six .row.imgg .col {
+        padding: 0%;
+    }
+
+    .seven {
+        padding-top: 260px;
+        padding-bottom: 60px;
+    }
+
+    .seven .features {
+        width: 54%;
+        margin: 60px auto 80px;
+        text-align: left;
+    }
+
+    .seven .text {
+        width: 620px;
+        margin: auto;
+    }
+
+    .seven .logo img {
+        height: 32px;
+        margin: 0 16px 0 0;
+    }
+
+    .down1 h2:last-of-type {
+        margin-right: 64px;
+    }
+
+    .down2 {
+        margin-top: 60px;
+    }
+
+    .down2 p {
+        margin: 0%;
+    }
+}
+
+@media(min-width: 1024px) {
+    .sec.one .col.imag {
+        margin-top: -80px;
+    }
+
+    .sec.one .col.imag img {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .sec.one {
+        overflow: visible;
+    }
+
+    .two {
+        padding-top: 130px;
+    }
+
+    .four footer {
+        display: flex;
+        justify-content: center;
+    }
+
+    .four footer span {
+        display: flex;
+        padding-right: 5px;
+    }
+
+    .four footer.size {
+        display: block;
+    }
+
+    .four footer span.emo {
+        justify-content: center;
+    }
+
+    .four footer .text p {
+        padding-left: 5px;
+    }
+}
+
+@media(min-width:1036px) {
+    .four footer.size {
+        display: flex;
+    }
+}
+
+@media(min-width:480px) {
+    .down2 p {
+        display: inline-block;
+        margin-right: 16px;
+    }
+
+    .down1 a,
+    .down2 a {
+        width: auto;
+    }
+
+    .downs li {
+        display: inline;
+        padding-right: 8px;
+    }
+
+    .downs li a {
+        width: auto;
+    }
+}
+
+@media(min-width:1200px) {
+    .sec.one .content>p {
+        max-width: 30rem;
+    }
+}
